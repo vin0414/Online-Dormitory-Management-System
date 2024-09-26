@@ -1,0 +1,13 @@
+MUST HAVE
+
+Customer feedback - ability to upload images of concerns (broken door etc.)
+
+Employee report - Customer feedback MUST HAVE a reaction (Reply with image, to satisfy customer's concern that broken door is fixed) and a chatbox to reply to customer about concern.
+
+Customer feedback - must have history of the list of feedbacks of customer
+
+Rooms - No. beds - change to Available beds, because no. of beds is a misleading title
+
+Billings - Receipt OR number change to Control no.
+
+Currency - ALL CURRENCY MUST BE LABELLED TO PESOS
